@@ -15,11 +15,11 @@ LegalAi is designed to help users by delivering accurate and concise legal infor
 
 ## Demo Video
 
-https://github.com/itsmesneha/Legal-CHATBOT/assets/87040207/83741dc0-1b0f-43b6-a13e-c35046b831e0
+https://github.com/sania13996/LegalAiChatbot/assets/LegalAidemo.mp4
 
 ## Introduction
 
-LawGPT aims to assist users by providing accurate and concise legal information based on the Indian Penal Code and related legal documents. The chatbot retrieves relevant context from the knowledge base to answer user queries efficiently.
+LegalAi aims to assist users by providing accurate and concise legal information based on the Indian Penal Code and related legal documents. The chatbot retrieves relevant context from the knowledge base to answer user queries efficiently.
 
 ## Features
 
@@ -31,7 +31,7 @@ LawGPT aims to assist users by providing accurate and concise legal information 
 
 ## Architecture
 
-The architecture of LawGPT includes the following components:
+The architecture of LegalAi includes the following components:
 
 1. **Document Loader**: Loads legal documents from a directory of PDF files.
 2. **Text Splitter**: Splits documents into manageable chunks for embedding.
@@ -55,8 +55,8 @@ The architecture of LawGPT includes the following components:
 1. **Clone the Repository**
 
 ```bash
-   git clone https://github.com/yourusername/lawgpt.git
-   cd lawgpt
+   git clone https://github.com/sania13996/LegalAiChatbot.git
+   cd LegalAiChatbot
 ```
 
 2.  **Set Up and Activate Virtual Environment**
@@ -95,7 +95,7 @@ streamlit run app.py
 ```
 ## Deployed Website
 
-LawGPT is also deployed on Streamlit Cloud. You can access the chatbot directly via the following link:
+LegalAi is also deployed on Streamlit Cloud. You can access the chatbot directly via the following link:
 
 [https://legal-chatbot-llm.streamlit.app/](https://legal-chatbot-llm.streamlit.app/)
 
