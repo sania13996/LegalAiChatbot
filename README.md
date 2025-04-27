@@ -1,4 +1,4 @@
-# LawGPT: LLM-based Legal ChatBot
+# LegalAi: LLM-based Legal ChatBot
 
 ![Python 3.12](https://img.shields.io/badge/Python-3.10-brightgreen.svg) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)  
 
