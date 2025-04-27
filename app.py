@@ -15,9 +15,9 @@ os.environ['GOOGLE_API_KEY'] = os.getenv("GOOGLE_API_KEY")
 groq_api_key = os.getenv("GROQ_API_KEY")
 
 # Streamlit UI setup
-st.set_page_config(page_title="LawGPT")
+st.set_page_config(page_title="LegalAi")
 col1, col2, col3 = st.columns([1, 4, 1])
-st.title("Llama Model Legal ChatBot")
+st.title("Legal Ai Chatbot")
 st.markdown("""
     <style>
     div.stButton > button:first-child {
