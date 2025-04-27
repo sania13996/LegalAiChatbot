@@ -13,7 +13,7 @@ LegalAi is designed to help users by delivering accurate and concise legal infor
 - [Usage](#usage)
 - [Deployed Website](#deployed-website)
 
-## Demo Video
+## Screenshort
 https://github.com/user-attachments/assets/64d0df93-a582-4fdd-856a-4306ec3830fd
 
 ## Introduction
