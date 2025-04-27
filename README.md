@@ -14,8 +14,7 @@ LegalAi is designed to help users by delivering accurate and concise legal infor
 - [Deployed Website](#deployed-website)
 
 ## Demo Video
-
-https://github.com/sania13996/LegalAiChatbot/raw/main/assets/LegalAidemo.mp4
+https://github.com/user-attachments/assets/64d0df93-a582-4fdd-856a-4306ec3830fd
 
 ## Introduction
 
